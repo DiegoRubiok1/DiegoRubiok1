@@ -36,7 +36,7 @@ I am a UC3M student pursuing a Bachelor's degree in Computer Science and Enginee
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [in/diego-rubio](https://www.linkedin.com/in/diego-rubio)
+- **LinkedIn**: [in/diego-rubio-canales](https://www.linkedin.com/in/diego-rubio-canales)
 - **Email**: [rubiocanalesd@gmail.com](mailto:rubiocanalesd@gmail.com)
 - **GitHub**: [@DiegoRubiok1](https://github.com/DiegoRubiok1)
 
