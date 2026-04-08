@@ -1,12 +1,12 @@
 # Hi, I'm Diego Rubio Canales 👋
 
-I am a UC3M student pursuing a Bachelor's degree in Computer Science and Engineering based in Madrid, Spain. I am passionate about research and developing innovative technologies.
+I am a UC3M student pursuing a Bachelor's degree in Computer Science and Engineering in Madrid, Spain. I am passionate about research and developing innovative technologies.
 
 ## 🎓 About Me
 
-- 💻 2nd-year student pursuing a Bachelor's degree in Computer Science and Engineering at UC3M.
-- 🚀 Developer at **[STAR UC3M](https://staruc3m.com/r-d/)** (Student Team for Aerospace and Rocketry), working on the *Stardust* next-gen rocketry simulator using high-performance C++.
-- 🐧 Active member of **GUL UC3M** (Linux User Group), participating in competitive programming (AdaByron 2025) and cybersecurity.
+- 💻 2nd-year student in Computer Science and Engineering at UC3M.
+- 🚀 Developer at **[STAR UC3M](https://staruc3m.com/r-d/)** (Student Team for Aerospace and Rocketry), working on the *Stardust* next-gen rocketry simulator using C++ and Python.
+- 🐧 Active member of **GUL UC3M** (Linux User Group), participating in competitive programming (AdaByron 2025).
 - 🛶 High-Performance Athlete (DAR - Olympic sprint canoeing), balancing a demanding academic, technological, and athletic career.
 - 🔬 Passionate about low-level software, data-oriented design, algorithmic problem-solving, and efficient physical simulations.
 
@@ -22,7 +22,7 @@ I am a UC3M student pursuing a Bachelor's degree in Computer Science and Enginee
 ## 📌 Recent Projects
 
 - **[simple_ivp_solver](https://github.com/DiegoRubiok1/simple_ivp_solver):** A lightweight C++ initial value problem differential equation solver using `boost::odeint` with an event handler.
-- **[blog_carmina](https://github.com/DiegoRubiok1/blog_carmina):**  A personal literature blog built for Carmen Huélamo Moreno.
+- **[mi-parnaso](https://github.com/DiegoRubiok1/mi-parnaso):**  A personal literature blog built for Carmen Huélamo Moreno.
 - **[FSM-Semaforo](https://github.com/DiegoRubiok1/FSM-Semaforo):** VHDL state machine implementation and diagrams for a traffic light system.
 - **[gfc_to_egm](https://github.com/DiegoRubiok1/gfc_to_egm):** Python-based utility script.
 - **[Gul-Jamon-Repository](https://github.com/DiegoRubiok1/Gul-Jamon-Repository):** An exploratory game project built with GDScript (Godot).
