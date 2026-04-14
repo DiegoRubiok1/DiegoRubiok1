@@ -25,7 +25,8 @@ I am a UC3M student pursuing a Bachelor's degree in Computer Science and Enginee
 - **[mi-parnaso](https://github.com/DiegoRubiok1/mi-parnaso):**  A personal literature blog built for Carmen Huélamo Moreno.
 - **[FSM-Semaforo](https://github.com/DiegoRubiok1/FSM-Semaforo):** VHDL state machine implementation and diagrams for a traffic light system.
 - **[gfc_to_egm](https://github.com/DiegoRubiok1/gfc_to_egm):** Python-based utility script.
-- **[Gul-Jamon-Repository](https://github.com/DiegoRubiok1/Gul-Jamon-Repository):** An exploratory game project built with GDScript (Godot).
+- **[Gul-Jamon-Repository](https://github.com/DiegoRubiok1/Gul-Jamon-Repository):**My first game project built with GDScript (Godot) for GULJamón Game Jam.
+- **[SabeloTODO](https://github.com/100550213/BE-Hackathon):** JetBrains IDE plugin for the BE-Hackathon contest. 
 
 ## 📊 GitHub Stats
 
