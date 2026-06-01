@@ -1,16 +1,16 @@
-# Hi, I'm Diego Rubio Canales 👋
+# Hi!
 
-I am a UC3M student pursuing a Bachelor's degree in Computer Science and Engineering in Madrid, Spain. I am passionate about research and developing innovative technologies.
+I am a UC3M student pursuing a Bachelor's degree in Computer Science and Engineering in Madrid, Spain. I am passionate about research and develop innovative technologies
 
-## 🎓 About Me
+## About Me
 
-- 💻 2nd-year student in Computer Science and Engineering at UC3M.
-- 🚀 Developer at **[STAR UC3M](https://staruc3m.com/r-d/)** (Student Team for Aerospace and Rocketry), working on the *Stardust* next-gen rocketry simulator using C++ and Python.
-- 🐧 Active member of **GUL UC3M** (Linux User Group), participating in competitive programming (AdaByron 2025).
-- 🛶 High-Performance Athlete (DAR - Olympic sprint canoeing), balancing a demanding academic, technological, and athletic career.
-- 🔬 Passionate about low-level software, data-oriented design, algorithmic problem-solving, and efficient physical simulations.
+- Student in Computer Science and Engineering at Universidad Carlos III.
+- Developer at **[STAR UC3M](https://staruc3m.com/r-d/)**
+- Active member of **GUL UC3M** (Linux User Group).
+- High-Performance Athlete (DAR - Olympic sprint kayaking), balancing a demanding academic, technological, and athletic career.
+- Passionate about low-level and high performance computing, algorithmic problem-solving.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -30,10 +30,10 @@ I am a UC3M student pursuing a Bachelor's degree in Computer Science and Enginee
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoRubiok1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRubiok1&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" alt="Estadísticas de GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" alt="Lenguajes más usados" height="180" />
+</p>
 
 ## 📫 Let's Connect
 
